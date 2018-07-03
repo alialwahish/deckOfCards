@@ -1,0 +1,10 @@
+/home/ali/codingDojo/c#/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.deps.json
+/home/ali/codingDojo/c#/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.runtimeconfig.json
+/home/ali/codingDojo/c#/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.runtimeconfig.dev.json
+/home/ali/codingDojo/c#/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.dll
+/home/ali/codingDojo/c#/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.pdb
+/home/ali/codingDojo/c#/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.csproj.CoreCompileInputs.cache
+/home/ali/codingDojo/c#/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.AssemblyInfoInputs.cache
+/home/ali/codingDojo/c#/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.AssemblyInfo.cs
+/home/ali/codingDojo/c#/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.dll
+/home/ali/codingDojo/c#/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.pdb
